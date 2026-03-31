@@ -15,11 +15,11 @@ It recreates the look and feel of Netflix’s landing page, including navigation
 - Section-based content layout
 
 # Technologies Used
-HTML5
-CSS3
-Flexbox
-Background styling
-Positioning techniques
+- HTML5
+- CSS3
+- Flexbox
+- Background styling
+- Positioning techniques
 
 # Project Structure
 Netflix-Clone/
@@ -48,4 +48,4 @@ Run using Live Server in VS Code
 
 # Author
 Kaushik Bhajipale
-Frontend Developer
+(Frontend Developer)
